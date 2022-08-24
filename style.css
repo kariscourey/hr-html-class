@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font-size: 40px;
+}
+
+div{
+    font-size: 30px;
+}
+
+dix#maindiv{
+    color: blue;
+}
+
+/* class selector */
+div.firstdiv{
+    color: yellow;
+}
+
+/* child element that is an anchor tag within the class of firstdiv */
+div.firstdiv a{
+    color: black;
+}
+
+body{
+    border: solid red 5px;
+}
